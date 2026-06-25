@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/R2m6nshuP/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0136-single-number) |
 ## Trie
 |  |
@@ -82,7 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/R2m6nshuP/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
