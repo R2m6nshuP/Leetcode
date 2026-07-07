@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/R2m6nshuP/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/R2m6nshuP/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/1922-count-good-numbers) |
 ## Greedy
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/R2m6nshuP/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
