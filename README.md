@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/R2m6nshuP/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/R2m6nshuP/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/R2m6nshuP/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
