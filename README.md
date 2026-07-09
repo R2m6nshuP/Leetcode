@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
