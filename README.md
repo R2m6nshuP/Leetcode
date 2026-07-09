@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Trie
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
