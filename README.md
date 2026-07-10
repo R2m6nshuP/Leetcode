@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/R2m6nshuP/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/R2m6nshuP/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/R2m6nshuP/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/R2m6nshuP/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
