@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/R2m6nshuP/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
+| [1137-n-th-tribonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/R2m6nshuP/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/1922-count-good-numbers) |
@@ -149,8 +150,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/R2m6nshuP/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/R2m6nshuP/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
