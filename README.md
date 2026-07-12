@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/R2m6nshuP/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/R2m6nshuP/Leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/R2m6nshuP/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/R2m6nshuP/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
 ## Enumeration
