@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/R2m6nshuP/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/R2m6nshuP/Leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/R2m6nshuP/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/R2m6nshuP/Leetcode/tree/master/0070-climbing-stairs) |
 | [0377-combination-sum-iv](https://github.com/R2m6nshuP/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0678-valid-parenthesis-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0678-valid-parenthesis-string) |
