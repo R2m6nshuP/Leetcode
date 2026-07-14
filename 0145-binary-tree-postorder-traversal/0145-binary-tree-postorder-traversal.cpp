@@ -13,8 +13,8 @@ class Solution {
 public:
     void fun(vector<int> &ans,TreeNode* temp){
         if(!temp) return;
-        fun(ans,temp->left);
-        fun(ans,temp->right);
+        if(temp->left) fun(ans,temp->left);
+        if(temp->right) fun(ans,temp->right);
         ans.push_back(temp->val);
     }
     vector<int> postorderTraversal(TreeNode* root) {
