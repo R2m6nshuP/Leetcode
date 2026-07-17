@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/R2m6nshuP/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/1922-count-good-numbers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/R2m6nshuP/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Greedy
 |  |
 | ------- |
