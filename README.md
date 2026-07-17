@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/R2m6nshuP/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
 | ------- |
@@ -303,4 +305,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/R2m6nshuP/Leetcode/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
