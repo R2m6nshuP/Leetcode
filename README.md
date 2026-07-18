@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/R2m6nshuP/Leetcode/tree/master/0258-add-digits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/R2m6nshuP/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/R2m6nshuP/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/1922-count-good-numbers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/R2m6nshuP/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1486-xor-operation-in-an-array](https://github.com/R2m6nshuP/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/R2m6nshuP/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
