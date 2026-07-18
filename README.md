@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/R2m6nshuP/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/R2m6nshuP/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/R2m6nshuP/Leetcode/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
