@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/R2m6nshuP/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/R2m6nshuP/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/R2m6nshuP/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/R2m6nshuP/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/R2m6nshuP/Leetcode/tree/master/0046-permutations) |
