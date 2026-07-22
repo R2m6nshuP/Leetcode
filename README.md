@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/R2m6nshuP/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/R2m6nshuP/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/R2m6nshuP/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3136-valid-word](https://github.com/R2m6nshuP/Leetcode/tree/master/3136-valid-word) |
 ## Stack
 |  |
 | ------- |
