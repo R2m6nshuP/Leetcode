@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/R2m6nshuP/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/R2m6nshuP/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/R2m6nshuP/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/R2m6nshuP/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/R2m6nshuP/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/R2m6nshuP/Leetcode/tree/master/0070-climbing-stairs) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/R2m6nshuP/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/R2m6nshuP/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/R2m6nshuP/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/R2m6nshuP/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/R2m6nshuP/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
