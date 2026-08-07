@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/R2m6nshuP/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/R2m6nshuP/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/R2m6nshuP/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/R2m6nshuP/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/R2m6nshuP/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/R2m6nshuP/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/R2m6nshuP/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/R2m6nshuP/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/R2m6nshuP/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/R2m6nshuP/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/R2m6nshuP/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
