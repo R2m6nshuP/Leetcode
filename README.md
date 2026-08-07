@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/R2m6nshuP/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/R2m6nshuP/Leetcode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/R2m6nshuP/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/R2m6nshuP/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/R2m6nshuP/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/R2m6nshuP/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/R2m6nshuP/Leetcode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/R2m6nshuP/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/R2m6nshuP/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1550-three-consecutive-odds](https://github.com/R2m6nshuP/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1598-crawler-log-folder](https://github.com/R2m6nshuP/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/R2m6nshuP/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/R2m6nshuP/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
