@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/R2m6nshuP/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/R2m6nshuP/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/R2m6nshuP/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/R2m6nshuP/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/R2m6nshuP/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/R2m6nshuP/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/R2m6nshuP/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/R2m6nshuP/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/R2m6nshuP/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/R2m6nshuP/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/R2m6nshuP/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/R2m6nshuP/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/R2m6nshuP/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/R2m6nshuP/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/R2m6nshuP/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/R2m6nshuP/Leetcode/tree/master/3174-clear-digits) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/R2m6nshuP/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/R2m6nshuP/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
