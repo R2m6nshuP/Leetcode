@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/R2m6nshuP/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/R2m6nshuP/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/R2m6nshuP/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/R2m6nshuP/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/R2m6nshuP/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0143-reorder-list) |
