@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/R2m6nshuP/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/R2m6nshuP/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/R2m6nshuP/Leetcode/tree/master/1598-crawler-log-folder) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/R2m6nshuP/Leetcode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/R2m6nshuP/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Design
 |  |
 | ------- |
