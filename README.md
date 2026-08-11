@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/R2m6nshuP/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/R2m6nshuP/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/R2m6nshuP/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/R2m6nshuP/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/R2m6nshuP/Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/R2m6nshuP/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
