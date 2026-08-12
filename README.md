@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/R2m6nshuP/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/R2m6nshuP/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/R2m6nshuP/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0377-combination-sum-iv](https://github.com/R2m6nshuP/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/R2m6nshuP/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/R2m6nshuP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/R2m6nshuP/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/R2m6nshuP/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/R2m6nshuP/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/R2m6nshuP/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/R2m6nshuP/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
