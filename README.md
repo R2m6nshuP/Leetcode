@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/R2m6nshuP/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/R2m6nshuP/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/R2m6nshuP/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/R2m6nshuP/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/R2m6nshuP/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/R2m6nshuP/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/R2m6nshuP/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
