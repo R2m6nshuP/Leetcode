@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/R2m6nshuP/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/R2m6nshuP/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/R2m6nshuP/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/R2m6nshuP/Leetcode/tree/master/0817-linked-list-components) |
 | [0860-lemonade-change](https://github.com/R2m6nshuP/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/R2m6nshuP/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/R2m6nshuP/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/R2m6nshuP/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/R2m6nshuP/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
+| [0883-projection-area-of-3d-shapes](https://github.com/R2m6nshuP/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1672-richest-customer-wealth](https://github.com/R2m6nshuP/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
@@ -602,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/R2m6nshuP/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/R2m6nshuP/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
