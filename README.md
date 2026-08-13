@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/R2m6nshuP/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/R2m6nshuP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/R2m6nshuP/Leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/R2m6nshuP/Leetcode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/R2m6nshuP/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/R2m6nshuP/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/R2m6nshuP/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/R2m6nshuP/Leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0504-base-7](https://github.com/R2m6nshuP/Leetcode/tree/master/0504-base-7) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/1137-n-th-tribonacci-number) |
