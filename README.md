@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/R2m6nshuP/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/R2m6nshuP/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0394-decode-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/R2m6nshuP/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/R2m6nshuP/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/R2m6nshuP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
