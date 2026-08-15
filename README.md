@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/R2m6nshuP/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/R2m6nshuP/Leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/R2m6nshuP/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0779-k-th-symbol-in-grammar](https://github.com/R2m6nshuP/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/R2m6nshuP/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/R2m6nshuP/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/R2m6nshuP/Leetcode/tree/master/0401-binary-watch) |
 ## Enumeration
 |  |
 | ------- |
