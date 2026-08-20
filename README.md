@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/R2m6nshuP/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/R2m6nshuP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/R2m6nshuP/Leetcode/tree/master/0547-number-of-provinces) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/R2m6nshuP/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/R2m6nshuP/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/R2m6nshuP/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/R2m6nshuP/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/R2m6nshuP/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/R2m6nshuP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/R2m6nshuP/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Graph Theory
