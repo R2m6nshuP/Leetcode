@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/R2m6nshuP/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/R2m6nshuP/Leetcode/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/R2m6nshuP/Leetcode/tree/master/3174-clear-digits) |
+| [4026-maximum-gap-between-stations](https://github.com/R2m6nshuP/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/R2m6nshuP/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/R2m6nshuP/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [4026-maximum-gap-between-stations](https://github.com/R2m6nshuP/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/R2m6nshuP/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/R2m6nshuP/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/R2m6nshuP/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [4026-maximum-gap-between-stations](https://github.com/R2m6nshuP/Leetcode/tree/master/4026-maximum-gap-between-stations) |
 ## Array
 |  |
 | ------- |
