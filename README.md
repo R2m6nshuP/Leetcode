@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/R2m6nshuP/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/R2m6nshuP/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1470-shuffle-the-array](https://github.com/R2m6nshuP/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/R2m6nshuP/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1550-three-consecutive-odds](https://github.com/R2m6nshuP/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/R2m6nshuP/Leetcode/tree/master/1598-crawler-log-folder) |
