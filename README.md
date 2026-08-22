@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/R2m6nshuP/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/R2m6nshuP/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [4024-nearest-available-drone](https://github.com/R2m6nshuP/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Trie
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
+| [4024-nearest-available-drone](https://github.com/R2m6nshuP/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
