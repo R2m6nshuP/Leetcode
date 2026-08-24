@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/R2m6nshuP/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/R2m6nshuP/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/R2m6nshuP/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0143-reorder-list) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/R2m6nshuP/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/R2m6nshuP/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/R2m6nshuP/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0136-single-number) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/R2m6nshuP/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/R2m6nshuP/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0377-combination-sum-iv](https://github.com/R2m6nshuP/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/R2m6nshuP/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/R2m6nshuP/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0883-projection-area-of-3d-shapes](https://github.com/R2m6nshuP/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1672-richest-customer-wealth](https://github.com/R2m6nshuP/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/R2m6nshuP/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/R2m6nshuP/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/R2m6nshuP/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/R2m6nshuP/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
