@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/R2m6nshuP/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/R2m6nshuP/Leetcode/tree/master/0705-design-hashset) |
 | [0817-linked-list-components](https://github.com/R2m6nshuP/Leetcode/tree/master/0817-linked-list-components) |
 | [0860-lemonade-change](https://github.com/R2m6nshuP/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0877-stone-game) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/R2m6nshuP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/R2m6nshuP/Leetcode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/R2m6nshuP/Leetcode/tree/master/0705-design-hashset) |
 | [0817-linked-list-components](https://github.com/R2m6nshuP/Leetcode/tree/master/0817-linked-list-components) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/R2m6nshuP/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/R2m6nshuP/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/R2m6nshuP/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/R2m6nshuP/Leetcode/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/R2m6nshuP/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/R2m6nshuP/Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/R2m6nshuP/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/R2m6nshuP/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/R2m6nshuP/Leetcode/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -696,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/R2m6nshuP/Leetcode/tree/master/0563-binary-tree-tilt) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/R2m6nshuP/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
