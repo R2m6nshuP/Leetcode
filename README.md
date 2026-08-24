@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/R2m6nshuP/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/R2m6nshuP/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/R2m6nshuP/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/R2m6nshuP/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/R2m6nshuP/Leetcode/tree/master/0071-simplify-path) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/R2m6nshuP/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/R2m6nshuP/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/R2m6nshuP/Leetcode/tree/master/0070-climbing-stairs) |
@@ -709,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/R2m6nshuP/Leetcode/tree/master/0705-design-hashset) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/R2m6nshuP/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
