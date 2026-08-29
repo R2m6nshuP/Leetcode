@@ -11,11 +11,12 @@
  */
 class Solution {
 public:
-    unordered_map<int,int> mp;
+    pair<int,int> ans={0,-1};
     void helper(TreeNode* root,int l) {
         if(!root) return;
         if(!root->left && !root->right) {
-            mp[l]+=root->val;
+            if(l>ans.second) ans={root->val,l};
+            else if(l==ans.second) ans={ans.first+root->val,l};
             return;
         }
         helper(root->left,l+1);
@@ -23,14 +24,6 @@ public:
         }
     int deepestLeavesSum(TreeNode* root) {
         helper(root,0);
-        int ans=0;
-        int l=-1;
-        for(auto &[le,su]: mp){
-            if(le>l){
-                l=le;
-                ans=su;
-            }
-        }
-        return ans;
+        return ans.first;
     }
 };
