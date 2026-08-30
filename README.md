@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/R2m6nshuP/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/R2m6nshuP/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R2m6nshuP/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 ## Linked List
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/R2m6nshuP/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Matrix
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/R2m6nshuP/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/R2m6nshuP/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/R2m6nshuP/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Design
 |  |
 | ------- |
