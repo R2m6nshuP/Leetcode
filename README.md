@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/R2m6nshuP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/R2m6nshuP/Leetcode/tree/master/0860-lemonade-change) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/R2m6nshuP/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0598-range-addition-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0598-range-addition-ii) |
+| [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/R2m6nshuP/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/R2m6nshuP/Leetcode/tree/master/0682-baseball-game) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/R2m6nshuP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/R2m6nshuP/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/R2m6nshuP/Leetcode/tree/master/0705-design-hashset) |
 | [0817-linked-list-components](https://github.com/R2m6nshuP/Leetcode/tree/master/0817-linked-list-components) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/R2m6nshuP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/R2m6nshuP/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/R2m6nshuP/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search Tree
 |  |
@@ -741,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/R2m6nshuP/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Euclidean Algorithm
 |  |
