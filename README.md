@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/R2m6nshuP/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/R2m6nshuP/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/R2m6nshuP/Leetcode/tree/master/0204-count-primes) |
+| [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0377-combination-sum-iv](https://github.com/R2m6nshuP/Leetcode/tree/master/0377-combination-sum-iv) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/R2m6nshuP/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/R2m6nshuP/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/R2m6nshuP/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/R2m6nshuP/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/R2m6nshuP/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0918-maximum-sum-circular-subarray](https://github.com/R2m6nshuP/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/R2m6nshuP/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
@@ -786,4 +790,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
