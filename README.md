@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/R2m6nshuP/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/R2m6nshuP/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/R2m6nshuP/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/R2m6nshuP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/R2m6nshuP/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/R2m6nshuP/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/R2m6nshuP/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/R2m6nshuP/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/R2m6nshuP/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/R2m6nshuP/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search Tree
@@ -750,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/R2m6nshuP/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Euclidean Algorithm
@@ -806,4 +812,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
