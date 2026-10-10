@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/R2m6nshuP/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/R2m6nshuP/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0407-trapping-rain-water-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/R2m6nshuP/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/R2m6nshuP/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/R2m6nshuP/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/R2m6nshuP/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/R2m6nshuP/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0883-projection-area-of-3d-shapes](https://github.com/R2m6nshuP/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1672-richest-customer-wealth](https://github.com/R2m6nshuP/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/R2m6nshuP/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/R2m6nshuP/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/R2m6nshuP/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/R2m6nshuP/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search Tree
