@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/R2m6nshuP/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/R2m6nshuP/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/R2m6nshuP/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/R2m6nshuP/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/R2m6nshuP/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/R2m6nshuP/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/R2m6nshuP/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/R2m6nshuP/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/R2m6nshuP/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/R2m6nshuP/Leetcode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/R2m6nshuP/Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/R2m6nshuP/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/R2m6nshuP/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/R2m6nshuP/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/R2m6nshuP/Leetcode/tree/master/0085-maximal-rectangle) |
