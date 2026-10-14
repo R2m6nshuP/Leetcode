@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/R2m6nshuP/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/R2m6nshuP/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/R2m6nshuP/Leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/R2m6nshuP/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/R2m6nshuP/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/R2m6nshuP/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/R2m6nshuP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/R2m6nshuP/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/R2m6nshuP/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/R2m6nshuP/Leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/R2m6nshuP/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/R2m6nshuP/Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/R2m6nshuP/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/R2m6nshuP/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/R2m6nshuP/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
