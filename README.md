@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/R2m6nshuP/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1470-shuffle-the-array](https://github.com/R2m6nshuP/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/R2m6nshuP/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1499-max-value-of-equation](https://github.com/R2m6nshuP/Leetcode/tree/master/1499-max-value-of-equation) |
 | [1550-three-consecutive-odds](https://github.com/R2m6nshuP/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/R2m6nshuP/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/R2m6nshuP/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/R2m6nshuP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/R2m6nshuP/Leetcode/tree/master/0621-task-scheduler) |
+| [1499-max-value-of-equation](https://github.com/R2m6nshuP/Leetcode/tree/master/1499-max-value-of-equation) |
 | [2974-minimum-number-game](https://github.com/R2m6nshuP/Leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search Tree
 |  |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/R2m6nshuP/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0936-stamping-the-sequence](https://github.com/R2m6nshuP/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/R2m6nshuP/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1499-max-value-of-equation](https://github.com/R2m6nshuP/Leetcode/tree/master/1499-max-value-of-equation) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/R2m6nshuP/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
@@ -734,11 +737,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/R2m6nshuP/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/R2m6nshuP/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1499-max-value-of-equation](https://github.com/R2m6nshuP/Leetcode/tree/master/1499-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/R2m6nshuP/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/R2m6nshuP/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1499-max-value-of-equation](https://github.com/R2m6nshuP/Leetcode/tree/master/1499-max-value-of-equation) |
 ## Game Theory
 |  |
 | ------- |
