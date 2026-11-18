@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/R2m6nshuP/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/R2m6nshuP/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/R2m6nshuP/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0897-increasing-order-search-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/R2m6nshuP/Leetcode/tree/master/0968-binary-tree-cameras) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/R2m6nshuP/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/R2m6nshuP/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/R2m6nshuP/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/R2m6nshuP/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/R2m6nshuP/Leetcode/tree/master/0994-rotting-oranges) |
 | [1302-deepest-leaves-sum](https://github.com/R2m6nshuP/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -664,12 +666,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/R2m6nshuP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R2m6nshuP/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/R2m6nshuP/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/R2m6nshuP/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/R2m6nshuP/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/R2m6nshuP/Leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/R2m6nshuP/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/R2m6nshuP/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -862,4 +866,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/R2m6nshuP/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/R2m6nshuP/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/R2m6nshuP/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
